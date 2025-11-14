@@ -6,7 +6,7 @@ We are given 30 minutes to convert the following flowchart into C++ code and sub
 
 ![pt1 lab2_page-0001](https://github.com/user-attachments/assets/a0e514b5-d774-458a-8f39-5420fe0b7ef8)
 
-My attempt using ```while``` loop:
+My attempt using nested ```while``` loops:
 ```
 #include <iostream>
 using namespace std;
