@@ -2,7 +2,7 @@
 
 Date: 14 Nov 2025
 
-We are given 30 minutes to convert the flowchart into C++ code and submit the .cpp file in elearning.
+We are given 30 minutes to convert the following flowchart into C++ code and submit the .cpp file in elearning.
 
 ![pt1 lab2_page-0001](https://github.com/user-attachments/assets/a0e514b5-d774-458a-8f39-5420fe0b7ef8)
 
