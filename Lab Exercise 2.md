@@ -1,0 +1,32 @@
+# Lab Exercise 2
+
+Date: 14 Nov 2025
+
+We are given 30 minutes to convert the flowchart into C++ code and submit the .cpp file in elearning.
+
+![pt1 lab2_page-0001](https://github.com/user-attachments/assets/a0e514b5-d774-458a-8f39-5420fe0b7ef8)
+
+My attempt:
+
+```
+#include <iostream>
+using namespace std;
+//Cheng Zhi Min A25CS0050
+
+int main(){
+	int N, i, j;
+	cout<<"Enter the number of lines: ";
+	cin>>N;
+	i=1;
+	while(i<=N){
+		j=1;
+		while(j<=i){
+			cout<<j<<" ";
+			j++;
+		}
+		cout<<endl;
+		i++;
+	}
+    return 0;
+}
+```
