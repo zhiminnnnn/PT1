@@ -1,7 +1,4 @@
-<div align="justify">
-
 # Lab Exercise 2
-
 Date: 14 Nov 2025
 
 We are given 30 minutes to convert the following flowchart into C++ code and submit the .cpp file in elearning.
@@ -40,4 +37,3 @@ Enter the number of lines: 5
 1 2 3 4
 1 2 3 4 5
 ```
-</div>
