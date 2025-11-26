@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Lab Exercise 2
 Date: 14 Nov 2025
 
@@ -28,7 +30,7 @@ int main(){
     return 0;
 }
 ```
-Example output when `N` is 5
+Example output when `N` is 5:
 ```
 Enter the number of lines: 5
 1
@@ -37,3 +39,4 @@ Enter the number of lines: 5
 1 2 3 4
 1 2 3 4 5
 ```
+</div>
