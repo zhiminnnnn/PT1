@@ -10,4 +10,5 @@ This is an introductory course that teaches students how to solve problems and w
 
 - [Lab Exercise 2](https://github.com/zhiminnnnn/PT1/blob/main/Lab%20Exercise%202.md)
 - [Assignment 1](https://github.com/zhiminnnnn/PT1/blob/main/Assignment%201.pdf)
+- [Assignment 2](https://github.com/zhiminnnnn/PT1/blob/main/Assignment%202.md)
 </div>
