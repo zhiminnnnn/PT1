@@ -1,11 +1,14 @@
 <div align="justify">
+<div align="center">
 
-# SECJ1013 Programming Technique 1
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SECJ1013+Programming+Technique+1)](https://git.io/typing-svg)
+</div>
+
 ```yaml
 Section : 03
 Lecturer: Ts. Dr. Goh Eg Su
 ```
-An introductory C++ programming course that teaches problem-solving and fundamental concepts through pseudocode, flowcharts, and hands-on practice.
+_An introductory C++ programming course that teaches problem-solving and fundamental concepts through pseudocode, flowcharts, and hands-on practice._
 
 ## Topics Covered
 <table>
