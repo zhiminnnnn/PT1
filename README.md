@@ -1,7 +1,7 @@
 <div align="justify">
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SECJ1013+Programming+Technique+1)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=SECJ1013+Programming+Technique+1)](https://git.io/typing-svg)
 </div>
 
 ```yaml
