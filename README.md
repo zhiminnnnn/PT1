@@ -86,4 +86,7 @@ _An introductory C++ programming course that teaches problem-solving and fundame
     </tr>
   </tbody>
 </table>
+
+## Course Reflection
+> _This course has enabled me to develop a solid grounding in programming and problem-solving using C++. At first, I struggled with understanding concepts of programming, control structures, and syntax, but through classroom and labwork, I gained confidence in my knowledge and skills. The acquisition of skills to apply structured programming using pseudocode, flowcharts, and programming taught me to methodically analyze problems before programming, which minimized mistakes and maximized my productivity. Practical lab work was very beneficial to my understanding of programming since I could apply theoretical concepts to practical problems. I feel this particular course has enhanced my skills in programming and my discipline, which will be of great benefit to me in my upcoming courses and my career in computing._
 </div>
