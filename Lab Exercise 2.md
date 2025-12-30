@@ -11,7 +11,6 @@ My attempt using nested `while` loop:
 ```
 #include <iostream>
 using namespace std;
-//Cheng Zhi Min A25CS0050
 
 int main(){
 	int N, i, j;
