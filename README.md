@@ -77,6 +77,10 @@ _An introductory C++ programming course that teaches problem-solving and fundame
       <td><a href="https://github.com/zhiminnnnn/PT1/blob/main/Lab%20Exercise%202.md">Click here</a></td>
     </tr>
     <tr>
+      <td>Lab Exercise 3</td>
+      <td><a href="https://github.com/zhiminnnnn/PT1/blob/main/Lab%20Exercise%203.md">Click here</a></td>
+    </tr>
+    <tr>
       <td>Assignment 1</td>
       <td><a href="https://github.com/zhiminnnnn/PT1/blob/main/Assignment%201.pdf">Click here</a></td>
     </tr>
