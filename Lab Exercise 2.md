@@ -31,7 +31,7 @@ int main(){
 }
 ```
 Example output when `N` is 5:
-```
+```yaml
 Enter the number of lines: 5
 1
 1 2
