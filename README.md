@@ -63,11 +63,11 @@ _An introductory C++ programming course that teaches problem-solving and fundame
   </tbody>
 </table>
 
-## Assignments & Coursework
+## Coursework
 <table>
   <thead>
     <tr>
-      <th align="center">Coursework</th>
+      <th align="center">Title</th>
       <th align="center">Link</th>
     </tr>
   </thead>
