@@ -3,4 +3,4 @@
 
 [Click here](https://github.com/zhiminnnnn/PT1/blob/main/input.txt) to download the input file.
 
-[Click here](https://github.com/zhiminnnnn/PT1/blob/main/Assignment%203.cpp) to download the .cpp file.
+[Click here](https://github.com/zhiminnnnn/PT1/blob/main/Assignment%203.cpp) to download the C++ code.
