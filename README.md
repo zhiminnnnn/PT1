@@ -23,42 +23,42 @@ _An introductory C++ programming course that teaches problem-solving and fundame
     <tr>
       <td align="center">1</td>
       <td>Programming Problem-Solving</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1Tvx6aD78miBbr6O1b5EG0mrjEwUbHaS3/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Elementary Programming</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1MCn2YhGR8EDpZEXP8NPUz1yV8QYg1sGQ/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Control Structures</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/106jFbiy-UF5bwllJ2aMjZQ5ZuOqM1lnb/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>Functions</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1ats9FSVe2JusDhYYQUnu0soql8-mJlTZ/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Array</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/14O4LYhOwJwkhHx4TU8YkhDW4IZxeHb1S/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">6</td>
       <td>Input & Output</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Pointers</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">8</td>
       <td>Structured Data</td>
-      <td align="center"><a href="https://bit.ly/pt1notes"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
