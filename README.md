@@ -48,12 +48,12 @@ _An introductory C++ programming course that teaches problem-solving and fundame
     <tr>
       <td align="center">6</td>
       <td>Input & Output</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1Z6A5mXYRTIDJ0WeE9LlZtmhfLyMRQsU2/view?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">7</td>
       <td>Pointers</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1nIo2mLSjNSqynfncp3PbB4J87V7AgN7N/view?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">8</td>
