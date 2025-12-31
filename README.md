@@ -88,6 +88,10 @@ _An introductory C++ programming course that teaches problem-solving and fundame
       <td>Assignment 2</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/PT1/blob/main/Assignment%202.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
+    <tr>
+      <td>Assignment 3</td>
+      <td align="center"><a href="https://github.com/zhiminnnnn/PT1/blob/main/Assignment%203.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
   </tbody>
 </table>
 
