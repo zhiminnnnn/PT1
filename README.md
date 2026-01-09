@@ -81,6 +81,10 @@ _An introductory C++ programming course that teaches problem-solving and fundame
       <td align="center"><a href="https://github.com/zhiminnnnn/PT1/blob/main/Lab%20Exercise%203.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
+      <td>Lab Exercise 4</td>
+      <td align="center"><a href="https://github.com/zhiminnnnn/PT1/blob/main/Lab%20Exercise%204.md"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
+    <tr>
       <td>Assignment 1</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/PT1/blob/main/Assignment%201.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
