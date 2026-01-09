@@ -58,7 +58,7 @@ _An introductory C++ programming course that teaches problem-solving and fundame
     <tr>
       <td align="center">8</td>
       <td>Structured Data</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1Lyzd8S6fhXmubCfe--6kxW-pWKzcK6ep/view?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
