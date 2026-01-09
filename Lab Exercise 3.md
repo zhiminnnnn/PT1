@@ -15,7 +15,7 @@ XXXXXX
 ```
 
 My attempt using nested `for` loop:
-```yaml
+```
 #include <iostream>
 using namespace std;
 
@@ -40,5 +40,4 @@ int main() {
     return 0;
 }
 ```
-[Click here](https://github.com/zhiminnnnn/PT1/blob/main/Lab%20Exercise%203.cpp) to download the C++ code.
 </div>
