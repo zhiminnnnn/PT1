@@ -38,5 +38,4 @@ Enter the number of lines: 5
 1 2 3 4
 1 2 3 4 5
 ```
-[Click here](https://github.com/zhiminnnnn/PT1/blob/main/Lab%20Exercise%202.cpp) to download the C++ code.
 </div>
