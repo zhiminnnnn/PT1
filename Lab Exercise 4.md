@@ -12,7 +12,7 @@ Enter values in array:
 50
 Total of the values in the array is 90
 ```
-My attempt:
+My attempt using pointers:
 ```
 #include <iostream>
 using namespace std;
