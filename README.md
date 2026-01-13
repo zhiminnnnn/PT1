@@ -10,7 +10,7 @@ Lecturer: Ts. Dr. Goh Eg Su
 ```
 _An introductory C++ programming course that teaches problem-solving and fundamental concepts through pseudocode, flowcharts, and hands-on practice._
 
-## Topics Covered
+## 📌Topics Covered
 <table>
   <thead>
     <tr>
@@ -63,7 +63,7 @@ _An introductory C++ programming course that teaches problem-solving and fundame
   </tbody>
 </table>
 
-## Coursework
+## 📝Coursework
 <table>
   <thead>
     <tr>
@@ -99,6 +99,6 @@ _An introductory C++ programming course that teaches problem-solving and fundame
   </tbody>
 </table>
 
-## Course Reflection
+## 🔎Course Reflection
 > _This course has made it possible for me to acquire a good foundation in the field of programming and problem-solving skills in the language C++. At the beginning, it was a challenge for me to grasp the concepts of computer programming, its control structures, and syntax, but through the classroom sessions and laboratory work, I gained confidence in the subjects. Learning the skills of structured computer programming techniques in the language of pseudocode, flow charts, and computer programming has taught me to analyze any given program systematically before the act of computer programming to reduce errors to a merely minimal level, which in turn maximized my productivity. Lab sessions were very helpful in understanding computer programming concepts because I had the ability to implement concepts of computer programming into real-world problems. This particular course, in my view, has improved my skills in computer programming as well as my field of study, which will prove to be a great help to me in the upcoming courses, as well as in the field of computing._
 </div>
