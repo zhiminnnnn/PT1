@@ -5,7 +5,7 @@ Date: 30 Dec 2025
 
 We are given 30 minutes to complete the task below:
 
->Write a complete C++ program that produce an "E" pattern as stated below. Your program should use 1-dimension array together with for/nested for/while/do...while loops and if/else...if/switch case control structures if needed. Your program should be simplified as much as possible to avoid unnecessary/repetitive codes.
+>Write a complete C++ program that produce an "E" pattern as stated below. The program should use 1-dimension array together with for/nested for/while/do...while loops and if/else...if/switch case control structures if needed. The program should be simplified as much as possible to avoid unnecessary/repetitive codes.
 ```yaml
 XXXXXX
 XX
